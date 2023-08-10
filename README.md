@@ -14,6 +14,7 @@ I possess some freelance experience, and below is the teck-stack and portfolio o
 ### Portfolio
 - 👉 [A tap game to promote dug pervention for DEPTCRC](https://vercel.com/z20240/tap-game)
 - 👉 [A questonaire web site to promote dug pervention for DEPTCRC (repo only)](https://github.com/z20240/bluma-admin)
+- 👉 [A Tiling Window management configre to enhance MacOS User experience](https://github.com/z20240/yabai)
 - 👉 [Yu-gi-oh card Crawler](https://github.com/z20240/yugioh-series-crawler/tree/main)
 - 👉 [A tool helping people rebase branches to newest version](https://www.npmjs.com/package/rebase-branches)
 - 👉 [A rewrite Express-generator into Typescript version](https://www.npmjs.com/package/typescript-express-generator)
@@ -23,33 +24,73 @@ I possess some freelance experience, and below is the teck-stack and portfolio o
 
 ### 🤖 Tech stack
 
-#### 🫶 Programming Language
-- ☑︎ Javascript, Typescript, Python, PHP
-
-#### 🎯 Backend Skills
-
-##### ✨ NodeJs
-- ☑︎ Framework: NestJs
-- ☑︎ Library: Express.Js, Koa.js
-
-##### Python
-- ☑︎ Library: Flask
-
-##### PHP
-- ☑︎ Framework: Laravel
-
-#### 🚀 Frontend Skills
-- ☑︎ React: NextJs, Zustand, CRA
-- ☑︎ Vue: Vue2, Vue3, NuxtJs, Pinia, Vuex
-- ☑︎ CSS: Tailwind, SCSS
-- ☑︎ UI Library: MUI, ElementUI, Vuetify
-
-#### 🛠️ CI/CD
-- ☑︎ Github actions.
-- ☑︎ Docker.
-- ☑︎ K8s (a little)
-- ☑︎ Cloud: GCP, AWS(EC2, ECR, S3), Firebase, Firestore, Vercel
-
+<table>
+  <thead>
+    <tr>
+      <th>🫶 Programming Language</th>
+      <th>Javascript, Typescript, Python, PHP</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" align="center"><strong> --- 🎯 Backend Skills --- </strong></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><strong>✨ NodeJs</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Framework</strong></td>
+      <td>NestJs</td>
+    </tr>
+    <tr>
+      <td><strong>Library</strong></td>
+      <td>Express.Js, Koa.js</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><strong>Python</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Library</strong></td>
+      <td>Flask</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><strong>PHP</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Framework</strong></td>
+      <td>Laravel</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><strong> --- 🚀 Frontend Skills --- </strong></td>
+    </tr>
+    <tr>
+      <td><strong>React</strong></td>
+      <td>NextJs, Zustand, CRA</td>
+    </tr>
+    <tr>
+      <td><strong>Vue</strong></td>
+      <td>Vue2, Vue3, NuxtJs, Pinia, Vuex</td>
+    </tr>
+    <tr>
+      <td><strong>CSS</strong></td>
+      <td>Tailwind, SCSS</td>
+    </tr>
+    <tr>
+      <td><strong>UI Library</strong></td>
+      <td>MUI, ElementUI, Vuetify</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><strong> --- 🛠️ CI/CD --- </strong></td>
+    </tr>
+    <tr>
+      <td colspan="2">Github actions, Docker, K8s (a little)</td>
+    </tr>
+    <tr>
+      <td><strong>Cloud</strong></td>
+      <td>GCP, AWS(EC2, ECR, S3), Firebase, Firestore, Vercel</td>
+    </tr>
+  </tbody>
+</table>
 
 <!--
 **z20240/z20240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
